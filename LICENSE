@@ -1,0 +1,39 @@
+Hexatra Lore – Mixed Licensing Notice
+=====================================
+
+This repository contains two different categories of content
+with different copyright and licensing terms.
+
+1. Hexatra Core (공통 규칙/가이드/템플릿)
+
+- Location: the `hexatra-core/` directory and its subdirectories.
+- Contents: common rules, strata system, transversal powers, official templates,
+  and other core documentation of the Hexatra project.
+- License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  (CC BY-NC-SA 4.0).
+
+This means:
+- You must give appropriate credit.
+- You may not use the material for commercial purposes.
+- If you remix, transform, or build upon the material, you must distribute your
+  contributions under the same license.
+
+The full legal text of the CC BY-NC-SA 4.0 license is available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+2. Individual Hexaplates (각 헥사판의 세계관, 캐릭터, 스토리 등 설정)
+
+- Location: the `hexaplate-worlds/` directory and its subdirectories.
+- Contents: individual worlds (Hexaplates), their settings, characters, and
+  stories created by each owner.
+- Copyright: remains with the respective creator (world owner) of each Hexaplate.
+- Default license: All rights reserved, unless otherwise stated inside each
+  world directory.
+
+Using or creating derivative works based on the content inside `hexaplate-worlds/`
+requires explicit permission from the respective creator, except where a different
+license is clearly indicated by that creator.
+
+Refer to the README files inside each world directory for any additional or
+world-specific licensing information.
