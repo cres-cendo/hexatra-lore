@@ -1,14 +1,28 @@
 # Hexatra Project
 
-A project that anyone willing to build a world could contribute. <br>
-Hexatra is a universe with multi-worlds. Each world exists in a "Hexaplate". <br>
+A project that anyone willing to build a world or a story could contribute. <br>
+서사, 혹은 세계관을 만들고자 하는 누구든 기여할 수 있는 프로젝트.
+
+Hexatra is a universe with multi-worlds. <br>
 Your story could begin from building a new "Hexaplate". <br>
 Your story could begin from an existing "Hexaplate", as an adventurer or a hero, or a villain, or any role you prefer. <br>
 Your story could progress in a single "Hexaplate", or travel between various "Hexaplate"s. <br>
-Your story awaits, in your imagination. <br>
+Your story awaits for you, in your imagination. <br>
+
+헥사트라는 다양한 세계로 구성된 하나의 큰 우주입니다. 
+당신의 이야기는 "헥사판"(세계관)을 만드는 것으로부터 시작할 수 있고,
+당신의 이야기는 기존에 존재하던 "헥사판"에 캐릭터를 만듦으로써 시작할 수 있고,
+당신의 이야기는 하나의 "헥사판"이라는 무대에서 진행될 수도, 여러 "헥사판"을 횡단하며 전개될 수 있습니다.
+당신의 이야기는, 당신의 상상력 속에서 당신을 기다립니다.
 
 - **Main Hub:** (Discord Link TBA)
-- **Language:** 한국어 / English mixed
+- **Language:** 한국어
+
+## 바로가기
+###
+
+### 용어 모음집
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/Glossary.md
 
 ## 구조
 해당 레포는 크게 두 부분으로 나뉩니다. 
@@ -18,10 +32,6 @@ Your story awaits, in your imagination. <br>
 2. `hexaplate-worlds`
    - 각 헥사판(세계)의 개별 설정, 캐릭터, 스토리가 정리된 디렉터리입니다.
    - 해당 디렉터리 아래에 있는 콘텐츠는 각 **제작자 오너에게 저작권이 있습니다.**
-
-## 바로가기
-### 용어 모음집
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/Glossary.md
 
 ## 저작권 및 라이선스 구조 
 
