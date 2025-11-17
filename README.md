@@ -50,6 +50,9 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/README.md
 ### 헥사판 (hexaplate-worlds) - 헥사트라에 존재하는 세상 목록
 TBA
 
+### 신규 헥사판 제작을 위한 참고용 양식  
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
+
 ### 용어 모음집
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/Glossary.md
 
