@@ -12,6 +12,8 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/hexatra-
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/Stratum.md
 ### 단층 판단 체크리스트
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/Stratum-checklist.md
+### 횡단권능 (Transversal Arts)
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/transversal-arts.md
 
 이 디렉터리의 모든 텍스트는 CC BY-NC-SA 4.0 라이선스를 따릅니다. 
 (자세한 내용은 레포 루트의 `LICENSE` 파일 참고) 
