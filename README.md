@@ -26,7 +26,7 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/community-guide.md
 ### 헥사트라 코어 (hexatra-core) - 헥사트라의 기본적인 틀
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/README.md
 
-### 헥사판 (hexaplate-worlds) - 헥사트라에 존재하는 세상에 관한...
+### 헥사판 (hexaplate-worlds) - 헥사트라에 존재하는 세상 목록
 TBA
 
 ### 용어 모음집
