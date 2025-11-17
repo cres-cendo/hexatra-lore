@@ -19,6 +19,10 @@ Your story awaits, in your imagination. <br>
    - 각 헥사판(세계)의 개별 설정, 캐릭터, 스토리가 정리된 디렉터리입니다.
    - 해당 디렉터리 아래에 있는 콘텐츠는 각 **제작자 오너에게 저작권이 있습니다.**
 
+## 바로가기
+### 용어 모음집
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/Glossary.md
+
 ## 저작권 및 라이선스 구조 
 
 해당 프로젝트는 다음 두 가지 층위의 콘텐츠를 구분합니다. 
