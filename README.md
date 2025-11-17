@@ -3,7 +3,7 @@
 A project that anyone willing to build a world or a story could contribute. <br>
 서사, 혹은 세계관을 만들고자 하는 누구든 기여할 수 있는 프로젝트.
 
-Hexatra is a universe with multi-worlds. <br>
+HEXATRA is a universe with multi-worlds. <br>
 Your story could begin from building a new "Hexaplate". <br>
 Your story could begin from an existing "Hexaplate", as an adventurer or a hero, or a villain, or any role you prefer. <br>
 Your story could progress in a single "Hexaplate", or travel between various "Hexaplate"s. <br>
