@@ -17,6 +17,7 @@ Your story awaits for you, in your imagination. <br>
 
 - **Main Hub:** (Discord 준비중)
 - **Temp Hub:** https://open.kakao.com/o/gT0NBg2h
+  - 입장 후 공사중인 디스코드로의 초대 링크를 제공할 예정입니다. 
 - **Language:** 한국어
 ## 대문
 **HEXATRA(헥사트라)는,** <br>
