@@ -15,7 +15,8 @@ Your story awaits for you, in your imagination. <br>
 당신의 이야기는 하나의 "헥사판"이라는 무대에서 진행될 수도, 여러 "헥사판"을 횡단하며 전개될 수 있습니다.
 당신의 이야기는, 당신의 상상력 속에서 당신을 기다립니다.
 
-- **Main Hub:** (Discord Link TBA)
+- **Main Hub:** (Discord 준비중)
+- **Temp Hub:** https://open.kakao.com/o/gT0NBg2h
 - **Language:** 한국어
 
 ## 바로가기
