@@ -4,7 +4,8 @@
 
 - `rules/` : 규율, 단층 시스템, 공통적인 힘 설명
 - `templates/` : 세계/캐릭터를 만들 때 참고하는 공식 양식
-
+## 신규 헥사판 양식 
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
 ## 바로가기 
 ### 헥사트라 서약 (Hexatra Vows)
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/hexatra-vows.md
