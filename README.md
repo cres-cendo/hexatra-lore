@@ -55,7 +55,7 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/README.md
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
 
 ### 용어 모음집
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/Glossary.md
+https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 
 ## 구조
 해당 레포는 크게 두 부분으로 나뉩니다. 
