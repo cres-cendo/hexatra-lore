@@ -3,7 +3,7 @@
 이 디렉터리에는 헥사트라 전체에 공통적으로 적용되는 가이드라인과 템플릿이 정리됩니다.
 
 - `rules/` : 규율, 단층 시스템, 공통적인 힘 설명
-- `templates/` : 세계/캐릭터를 만들 때 참고하는 공식 양식
+- `templates/` : 세계/캐릭터를 만들 때 참고하는 공식 양식 + 헥사판 운영 시 유의사항 
 ## 신규 헥사판 양식 
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
 ## 바로가기 
