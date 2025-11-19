@@ -11,7 +11,6 @@
 
 ### [제 1113 번 헥사판: 수선계](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1113-%EC%88%98%EC%84%A0%EA%B3%84/%EC%88%98%EC%84%A0%EA%B3%84.md)
 - 수행 경지를 올리기 위해 수단과 방법을 가리지 않는 수선자(修仙者)들이 경쟁하는 세계.
-<br>
 
 ### [제 1117 번 헥사판: 프리즘 디멘션](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1117-prism-dimension/prism-dimension.md)
 - 정의와 악에 대한 가치관이 조금씩 상이한 히어로 집단들, 그리고 히어로와 세상을 위협하는 공허의 존재들 사이의 서사.
