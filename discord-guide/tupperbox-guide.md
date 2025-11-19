@@ -34,13 +34,18 @@
 <img width="389" height="305" alt="image" src="https://github.com/user-attachments/assets/836e7eb0-a1e5-4747-b655-8db05d98b6d6" /> <br>
 2. 전송 후 메세지 로그 <br>
 <img width="669" height="493" alt="image" src="https://github.com/user-attachments/assets/45a0bddf-edda-4e46-8148-245e5efb344f" /> <br>
-3. 적용된 모습 <br> 
+3. 적용된 모습 <br>
+<img width="311" height="65" alt="image" src="https://github.com/user-attachments/assets/387cb2f2-9ba1-4e5b-85db-8ce7fa8f9666" />
 <br>
 
 ## 등록된 캐릭터 전용 프로필 사진 제거 방법 
 #### `tul!avatar "[캐릭터 이름]" clear`
 
-### 추후 내용 추가 예정 
+## 등록된 캐릭터 확인 방법 
+#### `tul!show "[캐릭터 이름]"`
+### 사용 사례
+<img width="473" height="304" alt="image" src="https://github.com/user-attachments/assets/031659c1-c15c-4be1-8f6c-150aea5a7aaa" /> <br>
+
 
 
 
