@@ -6,6 +6,9 @@
 - 해당 디렉터리에 존재하는 설정, 캐릭터, 스토리 등 텍스트/콘텐츠는 각 세계 제작자에게 저작권이 있습니다. (All rights reserved.)
 
 ## 목록 (주소 오름차순) (제목을 눌러주시면 됩니다.)
+### [제 0000 번 헥사판: 안식](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0000-%EC%95%88%EC%8B%9D/%EC%95%88%EC%8B%9D.md)
+- 고통의 근간을 완전히 끊어낸 채 현실의 상흔조차 닿을 수 없는 꿈결의 휴양지
+
 ### [제 1113 번 헥사판: 수선계](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1113-%EC%88%98%EC%84%A0%EA%B3%84/%EC%88%98%EC%84%A0%EA%B3%84.md)
 - 수행 경지를 올리기 위해 수단과 방법을 가리지 않는 수선자(修仙者)들이 경쟁하는 세계.
 <br>
