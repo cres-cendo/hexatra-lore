@@ -52,6 +52,9 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/README.md
 ### 신규 헥사판 제작을 위한 참고용 양식  
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
 
+### 커뮤니티 디스코드 채널별 안내 
+https://github.com/cres-cendo/hexatra-lore/tree/main/discord-guide
+
 ### 용어 모음집
 https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 
