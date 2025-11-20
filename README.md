@@ -55,6 +55,9 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMP
 ### 용어 모음집
 https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 
+### 정확히 어떤 분위기인가요? - 입문글 
+https://github.com/cres-cendo/hexatra-lore/blob/main/Introduction.md
+
 ## 구조
 해당 레포는 크게 두 부분으로 나뉩니다. 
 
@@ -79,7 +82,7 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 
 2. **Individual Hexaplates (각 헥사판의 세계관, 캐릭터, 스토리 등 설정)**
    - 적용 대상: `hexaplate-worlds/`디렉터리 및 그 하위 디렉터리
-   - 저작권: 해당 세계/캐릭터 제작자(오너)에게 전속
+   - 저작권: 해당 세계/캐릭터 제작자(오너) 및 관련 매체 제작자에게 전속
    - 기본 라이선스: All rights reserved.
    - Hexatra Core를 참고하거나 기반하였다고 해서, 해당 세계/캐릭터의 저작권 라이선스가 자동으로 CC BY-NC-SA로 바뀌지 않습니다.
    - 다른 프로젝트에서 사용/2차 창작을 원할 경우, 반드시 해당 오너에게 별도의 허가를 받으셔야 합니다. 
