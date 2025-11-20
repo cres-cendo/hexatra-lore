@@ -6,7 +6,9 @@
 - `templates/` : 세계/캐릭터를 만들 때 참고하는 공식 양식 + 헥사판 운영 시 유의사항 
 ## 신규 헥사판 양식 
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
-## 바로가기 
+## 신규 캐릭터 신청/등록 가이드라인 
+https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/char-application.md
+## 헥사트라 설정 
 ### 헥사트라 서약 (Hexatra Vows)
 https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/rules/hexatra-vows.md
 ### 단층 (Strata) 설정
