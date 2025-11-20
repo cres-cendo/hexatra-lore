@@ -58,6 +58,9 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 ### 정확히 어떤 분위기인가요? - 입문글 
 https://github.com/cres-cendo/hexatra-lore/blob/main/Introduction.md
 
+### 토론/토의/해결이 필요한 사안 목록
+https://github.com/cres-cendo/hexatra-lore/issues
+
 ## 구조
 해당 레포는 크게 두 부분으로 나뉩니다. 
 
