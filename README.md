@@ -15,7 +15,7 @@ Your story awaits for you, in your imagination. <br>
 당신의 이야기는 하나의 "헥사판"이라는 무대에서 진행될 수도, 여러 "헥사판"을 횡단하며 전개될 수 있습니다.<br>
 당신의 이야기는, 당신의 상상력 속에서 당신을 기다립니다.
 
-- **Main Hub:** https://discord.gg/AeKqP93A
+- **커뮤니티 링크:** https://discord.gg/AeKqP93A
 - **Language:** 한국어
 ## 대문
 **HEXATRA(헥사트라)는,** <br>
