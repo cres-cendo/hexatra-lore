@@ -40,6 +40,9 @@ HEXATRA 내에서 존재하는 세계관/캐릭터들 끼리의 크로스오버�
 
 
 ## 바로가기
+### 운영 비전 
+https://github.com/cres-cendo/hexatra-lore/blob/main/staff-guide.md
+
 ### 커뮤니티 가이드라인
 https://github.com/cres-cendo/hexatra-lore/blob/main/community-guide.md
 
