@@ -9,6 +9,12 @@
 ### [제 0000 번 헥사판: 안식](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0000-%EC%95%88%EC%8B%9D/%EC%95%88%EC%8B%9D.md)
 - 고통의 근간을 완전히 끊어낸 채 현실의 상흔조차 닿을 수 없는 꿈결의 휴양지
 
+### [제 0010 번 헥사판: 오세요! 햇살제과점](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0010-%EC%98%A4%EC%84%B8%EC%9A%94!-%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90/%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90.md)
+- 그 건물의 1층에는 햇살 제과점이, 2층과 3층은 주거 형태로 수인과 인간이 오순도순 같이 살아가는 곳.
+
+### [제 0796 번 헥사판: 일곱 장의 보리수잎](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EC%9D%BC%EA%B3%B1_%EC%9E%A5%EC%9D%98_%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E.md)
+- 세상에 깃들어 녹아든 일곱 개의 죄악. 그 죄악이 각각 깃든 지역과 사회에 살아가는 용족들의 이야기.
+
 ### [제 1113 번 헥사판: 수선계](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1113-%EC%88%98%EC%84%A0%EA%B3%84/%EC%88%98%EC%84%A0%EA%B3%84.md)
 - 수행 경지를 올리기 위해 수단과 방법을 가리지 않는 수선자(修仙者)들이 경쟁하는 세계.
 
