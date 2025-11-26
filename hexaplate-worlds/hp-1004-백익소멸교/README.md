@@ -1,0 +1,3 @@
+# 白翼消滅敎
+## 자세한 내용은 아래 링크에...
+#### [링크](https://www.postype.com/@hexatra0/post/20934713)
