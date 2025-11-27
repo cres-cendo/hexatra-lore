@@ -64,6 +64,9 @@ https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
 ### 정확히 어떤 분위기인가요? - 입문글 
 https://github.com/cres-cendo/hexatra-lore/blob/main/Introduction.md
 
+### AI 사용에 관한 규정/가이드라인
+https://github.com/cres-cendo/hexatra-lore/blob/main/AI-usage-guideline.md
+
 ### 토론/토의/해결이 필요한 사안 목록
 https://github.com/cres-cendo/hexatra-lore/issues
 
