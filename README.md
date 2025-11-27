@@ -95,3 +95,5 @@ https://github.com/cres-cendo/hexatra-lore/issues
    - 기본 라이선스: All rights reserved.
    - Hexatra Core를 참고하거나 기반하였다고 해서, 해당 세계/캐릭터의 저작권 라이선스가 자동으로 CC BY-NC-SA로 바뀌지 않습니다.
    - 다른 프로젝트에서 사용/2차 창작을 원할 경우, 반드시 해당 오너에게 별도의 허가를 받으셔야 합니다. 
+
+`LICENSE.md` 는 AI의 보조를 받아 작성되었습니다. 
