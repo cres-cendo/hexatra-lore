@@ -12,6 +12,9 @@
 ### [제 0010 번 헥사판: 오세요! 햇살제과점](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0010-%EC%98%A4%EC%84%B8%EC%9A%94!-%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90/%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90.md)
 - 그 건물의 1층에는 햇살 제과점이, 2층과 3층은 주거 형태로 수인과 인간이 오순도순 같이 살아가는 곳.
 
+### [제 0101 번 헥사판: Deus Ex Machina](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0101-Deus-Ex-Machina/README.md)
+- 인류의 절멸 이후 기계들이 살아가는 세계, 기계장치로 만든 신이 현존한다면, 그곳은 분명 지옥일것이다.
+
 ### [제 0796 번 헥사판: 일곱 장의 보리수잎](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EC%9D%BC%EA%B3%B1_%EC%9E%A5%EC%9D%98_%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E.md)
 - 세상에 깃들어 녹아든 일곱 개의 죄악. 그 죄악이 각각 깃든 지역과 사회에 살아가는 용족들의 이야기.
 
