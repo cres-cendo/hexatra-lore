@@ -15,7 +15,7 @@ Your story awaits for you, in your imagination. <br>
 당신의 이야기는 하나의 "헥사판"이라는 무대에서 진행될 수도, 여러 "헥사판"을 횡단하며 전개될 수 있습니다.<br>
 당신의 이야기는, 당신의 상상력 속에서 당신을 기다립니다.
 
-## **커뮤니티 링크:** https://discord.gg/AeKqP93A
+## [**커뮤니티 입장 링크(클릭!)**](https://discord.gg/AeKqP93A)
 - **Language:** 한국어
 ## 대문
 **HEXATRA(헥사트라)는,** <br>
@@ -39,39 +39,28 @@ HEXATRA 내에서 존재하는 세계관/캐릭터들 끼리의 크로스오버�
 오로지 비공식 모임/동아리와 같이 편안한 분위기 속에서 희망하시는 연성을 실행하고자 하는 바람 하에 개설됨을 밝힙니다. <br>
 
 
-## 바로가기
-### 운영 비전 
-https://github.com/cres-cendo/hexatra-lore/blob/main/staff-guide.md
+## 바로가기 (제목 클릭!)
+### [운영 비전](https://github.com/cres-cendo/hexatra-lore/blob/main/staff-guide.md)
 
-### 커뮤니티 가이드라인
-https://github.com/cres-cendo/hexatra-lore/blob/main/community-guide.md
+### [커뮤니티 가이드라인](https://github.com/cres-cendo/hexatra-lore/blob/main/community-guide.md)
 
-### 헥사트라 코어 (hexatra-core) - 헥사트라의 기본적인 틀
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/README.md
+### [헥사트라 코어 (hexatra-core) - 헥사트라의 기본적인 틀](https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/README.md)
 
-### 헥사판 (hexaplate-worlds) - 헥사트라에 존재하는 세상 목록
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/README.md
+### [헥사판 (hexaplate-worlds) - 헥사트라에 존재하는 세상 목록](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/README.md)
 
-### 캐릭터 대백과사전 - 헥사트라에 존재하는 모든 캐릭터 목록
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/README.md
+### [캐릭터 대백과사전 - 헥사트라에 존재하는 모든 캐릭터 목록](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/README.md)
 
-### 신규 헥사판 제작을 위한 참고용 양식  
-https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md
+### [신규 헥사판 제작을 위한 참고용 양식](https://github.com/cres-cendo/hexatra-lore/blob/main/hexatra-core/templates/TEMPLATE_Hexaplate.md)
 
-### 커뮤니티 디스코드 채널별 안내 
-https://github.com/cres-cendo/hexatra-lore/tree/main/discord-guide
+### [커뮤니티 디스코드 채널별 안내](https://github.com/cres-cendo/hexatra-lore/tree/main/discord-guide) 
 
-### 용어 모음집
-https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md
+### [용어 모음집](https://github.com/cres-cendo/hexatra-lore/blob/main/Glossary.md)
 
-### 정확히 어떤 분위기인가요? - 입문글 
-https://github.com/cres-cendo/hexatra-lore/blob/main/Introduction.md
+### [정확히 어떤 분위기인가요? - 입문글](https://github.com/cres-cendo/hexatra-lore/blob/main/Introduction.md)
 
-### AI 사용에 관한 규정/가이드라인
-https://github.com/cres-cendo/hexatra-lore/blob/main/AI-usage-guideline.md
+### [AI 사용에 관한 규정/가이드라인](https://github.com/cres-cendo/hexatra-lore/blob/main/AI-usage-guideline.md)
 
-### 토론/토의/해결이 필요한 사안 목록
-https://github.com/cres-cendo/hexatra-lore/issues
+### [토론/토의/해결이 필요한 사안 목록](https://github.com/cres-cendo/hexatra-lore/issues)
 
 ## 구조
 해당 레포는 크게 두 부분으로 나뉩니다. 
