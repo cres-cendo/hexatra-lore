@@ -9,8 +9,12 @@
 #### [김햇살](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0010-%EC%98%A4%EC%84%B8%EC%9A%94!-%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90/%EA%B9%80%ED%96%87%EC%82%B4.md)
 #### [릴리 루](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0010-%EC%98%A4%EC%84%B8%EC%9A%94!-%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90/%EB%A6%B4%EB%A6%AC-%EB%A3%A8.md)
 ---
+### 제 0101 번: Deus Ex Machina
+#### [아가페](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0101-Deus-Ex-Machina/%EC%95%84%EA%B0%80%ED%8E%98.md)
+---
 ### 제 0796 번: 일곱 장의 보리수잎 
-(기대해주세요.)
+#### [묵시의 나태](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EB%AC%B5%EC%8B%9C%EC%9D%98%20%EB%82%98%ED%83%9C.md)
+#### [향할 곳을 잃은 분노](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%ED%96%A5%ED%95%A0%20%EA%B3%B3%EC%9D%84%20%EC%9E%83%EC%9D%80%20%EB%B6%84%EB%85%B8.md)
 
 ---
 ### 제 1113 번: 수선계
@@ -22,3 +26,4 @@
 #### [드로](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-1117-prism-dimension/%EB%93%9C%EB%A1%9C.md)
 #### [테오](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-1117-prism-dimension/%ED%85%8C%EC%98%A4.md)
 #### [리프](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-1117-prism-dimension/%EB%A6%AC%ED%94%84.md)
+---
