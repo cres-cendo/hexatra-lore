@@ -11,6 +11,7 @@
 ---
 ### 제 0101 번: Deus Ex Machina
 #### [아가페](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0101-Deus-Ex-Machina/%EC%95%84%EA%B0%80%ED%8E%98.md)
+#### [리사](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0101-Deus-Ex-Machina/%EB%A6%AC%EC%82%AC.md)
 ---
 ### 제 0796 번: 일곱 장의 보리수잎 
 #### [묵시의 나태](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EB%AC%B5%EC%8B%9C%EC%9D%98%20%EB%82%98%ED%83%9C.md)
