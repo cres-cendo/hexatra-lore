@@ -15,6 +15,7 @@
 ### 제 0796 번: 일곱 장의 보리수잎 
 #### [묵시의 나태](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EB%AC%B5%EC%8B%9C%EC%9D%98%20%EB%82%98%ED%83%9C.md)
 #### [향할 곳을 잃은 분노](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%ED%96%A5%ED%95%A0%20%EA%B3%B3%EC%9D%84%20%EC%9E%83%EC%9D%80%20%EB%B6%84%EB%85%B8.md)
+#### [골든 아이](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9D%B4.md)
 
 ---
 ### 제 1113 번: 수선계
