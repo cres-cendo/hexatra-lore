@@ -18,6 +18,9 @@
 ### [제 0796 번 헥사판: 일곱 장의 보리수잎](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0796-%EC%9D%BC%EA%B3%B1-%EC%9E%A5%EC%9D%98-%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E/%EC%9D%BC%EA%B3%B1_%EC%9E%A5%EC%9D%98_%EB%B3%B4%EB%A6%AC%EC%88%98%EC%9E%8E.md)
 - 세상에 깃들어 녹아든 일곱 개의 죄악. 그 죄악이 각각 깃든 지역과 사회에 살아가는 용족들의 이야기.
 
+### [제 0925 번 헥사판: 호괴전](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0925-%ED%98%B8%EA%B4%B4%EC%A0%84/README.md)
+- 여우의, 여우에 의한, 여우를 위한 마을은 이 숲에서 사라지지 않을 것이다.
+
 ### [제 1004 번 헥사판: 백익소멸교](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1004-%EB%B0%B1%EC%9D%B5%EC%86%8C%EB%A9%B8%EA%B5%90/README.md)
 - ‘백색 날개를 가진 천사가 세계를 소멸시켜 구원한다’는 교리를 따르는 현대 종말론 교단이 양지와 음지에서 팽창하는 세계.
 
