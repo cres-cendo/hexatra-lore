@@ -21,7 +21,7 @@
 > 오로지 완벽한 것을 모방하며 살아가야 한다. 오로지 완벽한 것만이 세상에 남아야한다.  
 #### 제 3 사도: (비공석)
 > 세상을 구원할 그 완벽한 것을 찾기 위해, 그 수단을 가리지 않는다. 
-#### 제 4 사도: [코레 에피멜리아드](https://docs.google.com/document/d/1T7yEjI8d015Eakx_611n20NDZtXd_P3AbH7ypSsFS_0/edit?tab=t.0)
+#### 제 4 사도: [코레 에피멜리아드](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/profile/hp-1117-prism-dimension/%EC%BD%94%EB%A0%88-%EC%97%90%ED%94%BC%EB%A9%9C%EB%A6%AC%EC%95%84%EB%93%9C.md)
 > 모든 것은 정해진 순리대로 섞이고, 흘러가며 움직여야 한다.  
 #### 제 5 사도 (공석)
 > 그 누구에게나, 자기 자신만을 위한 완벽한 세상이 존재하게 될 것이다.  
