@@ -21,6 +21,9 @@
 ### [제 0925 번 헥사판: 호괴전](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0925-%ED%98%B8%EA%B4%B4%EC%A0%84/README.md)
 - 여우의, 여우에 의한, 여우를 위한 마을은 이 숲에서 사라지지 않을 것이다.
 
+### [제 0963 번 헥사판: 마고의 패물함](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0963-%EB%A7%88%EA%B3%A0%EC%9D%98-%ED%8C%A8%EB%AC%BC%ED%95%A8/README.md)
+- 세상은 의외로, 단순히 신이 아름다운 것들을 모아둔 패물함에 불과한지도 모른다. (정통 판타지, 하이판타지, 인외 위주)
+
 ### [제 1004 번 헥사판: 백익소멸교](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1004-%EB%B0%B1%EC%9D%B5%EC%86%8C%EB%A9%B8%EA%B5%90/README.md)
 - ‘백색 날개를 가진 천사가 세계를 소멸시켜 구원한다’는 교리를 따르는 현대 종말론 교단이 양지와 음지에서 팽창하는 세계.
 
