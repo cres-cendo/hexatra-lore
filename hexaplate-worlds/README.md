@@ -9,6 +9,9 @@
 ### [제 0000 번 헥사판: 안식](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0000-%EC%95%88%EC%8B%9D/%EC%95%88%EC%8B%9D.md)
 - 고통의 근간을 완전히 끊어낸 채 현실의 상흔조차 닿을 수 없는 꿈결의 휴양지
 
+### [제 0005 번 헥사판: 오행](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0005-%EC%98%A4%ED%96%89/README.md)
+- 역사가 만들어지는 과정. (동양풍, 동서양 퓨전풍 하이 판타지, 음양오행설) 
+
 ### [제 0010 번 헥사판: 오세요! 햇살제과점](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-0010-%EC%98%A4%EC%84%B8%EC%9A%94!-%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90/%ED%96%87%EC%82%B4%EC%A0%9C%EA%B3%BC%EC%A0%90.md)
 - 그 건물의 1층에는 햇살 제과점이, 2층과 3층은 주거 형태로 수인과 인간이 오순도순 같이 살아가는 곳.
 
