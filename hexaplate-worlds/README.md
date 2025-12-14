@@ -36,3 +36,6 @@
 ### [제 1117 번 헥사판: 프리즘 디멘션](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1117-prism-dimension/prism-dimension.md)
 - 정의와 악에 대한 가치관이 조금씩 상이한 히어로 집단들, 그리고 히어로와 세상을 위협하는 공허의 존재들 사이의 서사.
 
+### [제 1214 번 헥사판: 중세판타지:중앙 길드](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1214-%EC%A4%91%EC%84%B8%ED%8C%90%ED%83%80%EC%A7%80%3A%EC%A4%91%EC%95%99-%EA%B8%B8%EB%93%9C/README.md)
+- 중세 판타지 속, 중앙 길드에 소속된 이들의 이야기.
+
