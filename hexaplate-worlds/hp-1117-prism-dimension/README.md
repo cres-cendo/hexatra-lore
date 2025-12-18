@@ -33,6 +33,8 @@
     - 공허의 존재들이 해당 막에 접촉 시 치명적인 영향을 받는다.
   - 해당 도시는 매우 규모가 커, 총 4개의 구역으로 나뉘어 불리고, 각 구역마다 세부적인 "동" 혹은 "구" 단위의 구분이 존재한다.
     - 제 1 원환면, 제 2 원환면, 제 3 원환면, 제 4 원환면으로 크게 구역이 나뉜다.
+  - 자세한 내용은 [여기](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1117-prism-dimension/AreaOutline.md) 클릭!  
+
 ### 세력 관련 설정
 - [링크](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1117-prism-dimension/association.md)
 ### 배경 이야기
