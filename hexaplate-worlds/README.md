@@ -30,6 +30,9 @@
 ### [제 1004 번 헥사판: 백익소멸교](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1004-%EB%B0%B1%EC%9D%B5%EC%86%8C%EB%A9%B8%EA%B5%90/README.md)
 - ‘백색 날개를 가진 천사가 세계를 소멸시켜 구원한다’는 교리를 따르는 현대 종말론 교단이 양지와 음지에서 팽창하는 세계.
 
+### [제 1024 번 헥사판: Ain Mythology](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1024-Ain-Mythology/README.md)
+- 어반 판타지/중세 판타지 혼합 이능배틀물
+
 ### [제 1113 번 헥사판: 수선계](https://github.com/cres-cendo/hexatra-lore/blob/main/hexaplate-worlds/hp-1113-%EC%88%98%EC%84%A0%EA%B3%84/%EC%88%98%EC%84%A0%EA%B3%84.md)
 - 수행 경지를 올리기 위해 수단과 방법을 가리지 않는 수선자(修仙者)들이 경쟁하는 세계.
 
